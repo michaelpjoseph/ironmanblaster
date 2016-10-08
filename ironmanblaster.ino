@@ -2,8 +2,8 @@
 #include <Adafruit_NeoPixel.h>
 
 #define NUMBER_PIEXEL 12
-#define BLASTER   8
-#define LEDPIN    3
+#define BLASTER   8  // harvested flashlight array for central blaster base
+#define LEDPIN    3  // NeoPixel ring
 
 Adafruit_NeoPixel strip = Adafruit_NeoPixel(NUMBER_PIEXEL, LEDPIN, NEO_GRB + NEO_KHZ800);
 
