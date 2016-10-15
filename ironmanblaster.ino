@@ -1,6 +1,6 @@
 // Mike Joseph - michaelpjoseph@gmail.com
 // 2016.Oct.13
-// Iron Man inspired gesture triggered glove
+// Iron Man inspired gesture triggered glove with palm blaster and wrist laser
 //  My HW Setup:
 //    Arduino Uno
 //    LED array and reflector from cheap dollar store type flashlights
